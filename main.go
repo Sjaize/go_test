@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"go-rest-api/models"
+	"nproject/models"
 	"github.com/gorilla/mux"
 )
 
